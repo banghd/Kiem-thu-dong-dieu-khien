@@ -1,0 +1,19 @@
+{
+  "name": "kiem-thu-dong-dieu-khien",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banghd/Kiem-thu-dong-dieu-khien.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banghd/Kiem-thu-dong-dieu-khien/issues"
+  },
+  "homepage": "https://github.com/banghd/Kiem-thu-dong-dieu-khien#readme"
+}

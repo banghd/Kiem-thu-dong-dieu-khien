@@ -11,7 +11,7 @@ const test = (input1, input2) => {
         console.log("condition2");
     }
 
-    if(input1%2 === 0 && input2%3 === 0 ) {
+    if(input1%2 === 0 || input2%3 === 0 ) {
         console.log("condition3");
     } else {
         console.log("condition4");
